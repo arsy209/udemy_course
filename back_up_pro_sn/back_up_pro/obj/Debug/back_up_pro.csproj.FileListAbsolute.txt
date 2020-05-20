@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\back_up_pro_sn\back_up_pro\bin\Debug\back_up_pro.exe.config
+C:\Users\admin\source\repos\back_up_pro_sn\back_up_pro\bin\Debug\back_up_pro.exe
+C:\Users\admin\source\repos\back_up_pro_sn\back_up_pro\bin\Debug\back_up_pro.pdb
+C:\Users\admin\source\repos\back_up_pro_sn\back_up_pro\obj\Debug\back_up_pro.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\back_up_pro_sn\back_up_pro\obj\Debug\back_up_pro.Form1.resources
+C:\Users\admin\source\repos\back_up_pro_sn\back_up_pro\obj\Debug\back_up_pro.Properties.Resources.resources
+C:\Users\admin\source\repos\back_up_pro_sn\back_up_pro\obj\Debug\back_up_pro.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\back_up_pro_sn\back_up_pro\obj\Debug\back_up_pro.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\back_up_pro_sn\back_up_pro\obj\Debug\back_up_pro.exe
+C:\Users\admin\source\repos\back_up_pro_sn\back_up_pro\obj\Debug\back_up_pro.pdb
